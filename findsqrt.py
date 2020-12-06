@@ -14,7 +14,7 @@ def FindSqrt(nr):
         else:
             g=(g+nr/g)/2
 
-FindSqrt(8)
+print(FindSqrt(8))
 
 
 
