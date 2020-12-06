@@ -1,4 +1,3 @@
-# PRSH problem
 # Finding the square root of no 5
 
 from random import random, randrange
@@ -15,11 +14,3 @@ def FindSqrt(nr):
             g=(g+nr/g)/2
 
 print(FindSqrt(8))
-
-
-
-
-
-
-
-
